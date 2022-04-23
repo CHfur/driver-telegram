@@ -1,7 +1,7 @@
 {
-    "name": "belivey/driver-telegram",
+    "name": "chfur/driver-telegram",
     "license": "MIT",
-    "description": "Telegram driver for BotMan",
+    "description": "Fork Telegram driver for BotMan",
     "keywords": [
         "Bot",
         "BotMan",
@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "belivey/botman": "^2.0"
+        "chfur/botman": "^2.0"
     },
     "require-dev": {
         "botman/studio-addons": "^1.0",
